@@ -1,10 +1,10 @@
-# \<Nazwa repozytorium  >
+# \<ALGORYTMIKA >
 
-`<Imię i nazwisko autora> <data stworzenia>`
+`<> <02.09.23>`
 
 ## Opis
 
-Opis projektu
+Algorytmy ten teges
 
 ## Spis treści
 
