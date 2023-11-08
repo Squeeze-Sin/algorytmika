@@ -8,6 +8,7 @@ int main()
    int n;
    cout << "Podaj liczbe: ";
    cin >> n;
+   cout << "Czynniki pierwsze liczby : ";
    while (n > 1) {
 	   while (n % k == 0) {
 		   cout << k << endl;
